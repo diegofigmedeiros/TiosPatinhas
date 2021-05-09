@@ -1,0 +1,41 @@
+body {
+  margin: 0
+  font-family: "";
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+i {
+  font-size: 2rem;
+}
+
+.navbar-dark:hover .navbar-brand:hover {
+    color: black;
+}
+
+#logo-pata {
+  width: 24px;
+  fill: white;
+}
+
+#logo-tiospatinhas {
+  width: 40%;
+  fill: black;
+}
+#dados-tiospatinhas {
+  width: 50%;
+  fill: black;
+}
+
+@media all and (max-width: 990px) {
+  #titulo-patinhas {
+    display: none
+  }
+
+  #dados-tiospatinhas {
+    display: none
+  }
+}
