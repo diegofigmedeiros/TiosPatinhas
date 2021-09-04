@@ -2,11 +2,7 @@ body {
   margin: 0;
   font-family: "";
 }
-
-#teste {
-  color: #212529;
-}
-
+/*ScrollBar*/
 /* width */
 ::-webkit-scrollbar {
   width: 10px;
@@ -52,6 +48,8 @@ i {
   width: 40%;
   fill: black;
 }
+
+
 
 @media all and (max-width: 990px) {
   #titulo-patinhas {
