@@ -3,6 +3,10 @@ body {
   font-family: "";
 }
 
+#teste {
+  color: #212529;
+}
+
 /* width */
 ::-webkit-scrollbar {
   width: 10px;
